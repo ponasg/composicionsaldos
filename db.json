@@ -167,18 +167,6 @@
          "id":28,
          "Prestacion":"MEDICO GUARDIA CECOP",
          "Total":"$ 8.640,00"
-      },
-      {
-         "$id":"29",
-         "id":29,
-         "Prestacion":"MEDICO PEDIATRA",
-         "Total":"$ 397.313,09"
-      },
-      {
-         "$id":"30",
-         "id":30,
-         "Prestacion":"ODONTOLOGIA",
-         "Total":"$ 2.016.250,15"
       }
    ]
 }
