@@ -143,30 +143,6 @@
          "id":24,
          "Prestacion":"KINESIOLOGIA",
          "Total":"$ 3.196.190,74"
-      },
-      {
-         "$id":"25",
-         "id":25,
-         "Prestacion":"LIMPIEZA",
-         "Total":"$ 129.836,52"
-      },
-      {
-         "$id":"26",
-         "id":26,
-         "Prestacion":"MEDICAMENTOS Y MATERIALES DESCARTABLES",
-         "Total":"$ 4.744.206,20"
-      },
-      {
-         "$id":"27",
-         "id":27,
-         "Prestacion":"MEDICO DE FAMILIA",
-         "Total":"$ 4.049.835,40"
-      },
-      {
-         "$id":"28",
-         "id":28,
-         "Prestacion":"MEDICO GUARDIA CECOP",
-         "Total":"$ 8.640,00"
       }
    ]
 }
